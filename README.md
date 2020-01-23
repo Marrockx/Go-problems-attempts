@@ -1,2 +1,2 @@
-# 3TimesDivision
-This shows a go code of multiples of 3
+# Go Problems Solutions Attempt by Mariam Adekola
+This contains Go source files for problems from the Text
